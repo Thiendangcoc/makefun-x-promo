@@ -1,3 +1,8 @@
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Thiendangcoc/makefun-x-promo/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Thiendangcoc/makefun-x-promo/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
+
+
 # post-x-promote-make-your-own-bounty-01 starter
 
 A working entry for the make.fun bounty "Promote make.fun's make-your-own-bounty post on X": you make one post of your
